@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![WowStarWorld github stats](https://github-readme-stats.vercel.app/api?username=WowStarWorld&show_icons=true&theme=nord)
+![WowStarWorld github stats](https://github-readme-stats.vercel.app/api?username=WowStarWorld&show_icons=true&theme=aura)
 
 <!-- 编程语言统计 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WowStarWorld&hide=html,css)](https://github.com/WowStarWorld)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WowStarWorld&theme=aura)](https://github.com/WowStarWorld)
 
