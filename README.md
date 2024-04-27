@@ -1,4 +1,4 @@
-# StarWorld | 0xEEAA50 Ox0EEAA5
+# StarWorld | 0xEEAA50 0x0EEAA5
 
 🔗 **链接**
 
